@@ -1,4 +1,5 @@
-######Computing Real Numbers using DNA Self-Assembly
+
+####Computing Real Numbers using DNA Self-Assembly
 
 - This is a small `python` script which takes a number as input and generates a `XGrow` simulation file as output. To understand how this algorithm works, please refer our paper `Computing Real Numbers using DNA Self-Assembly` ![here](http://arxiv.org/abs/1502.05552)
 
